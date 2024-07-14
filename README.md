@@ -1,4 +1,4 @@
-Para rodar, após instalar ruby no seu computador é necessário
+Para rodar o código, além de ter a linguagem Ruby instalada no seu computador, é necessário:
 
 Instalar a gem bundler
 ```sh
